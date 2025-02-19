@@ -79,6 +79,8 @@ This tells Caddy to serve files from the `site` directory when accessed via `htt
    ```
 2. Open a browser and visit **http://localhost** to see your site running.
 
+![website2](website1.png)
+
 ### **Troubleshooting Issues**
 
 | Issue | Cause | Solution |
@@ -150,6 +152,8 @@ sudo systemctl restart caddy
    - `www → your-ip-address`
 2. **Enable HTTPS automatically** (Caddy handles this for you!)
 3. Verify deployment at **[https://leeanneli.space](https://leeanneli.space)**
+
+![website2](website2.png)
 
 ### **Troubleshooting AWS Deployment Issues**
 
